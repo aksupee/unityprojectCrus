@@ -19,15 +19,5 @@ public class respawnArmor : MonoBehaviour
         this.GetComponent<MeshRenderer>().enabled = true;
     }
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    // This is test!
 }
